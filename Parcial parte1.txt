@@ -1,0 +1,37 @@
+Parcial parte1
+1- Teniendo en cuenta las capas del modelo OSI, mencionar que protocolos interactúan
+en las:
+a. Capa de Aplicación: smtp,https, telnet, ftp, nfs 
+b. Capa de Transporte: tcp, udp, 
+2- Detallar las clases de IP detallando la cantidad de bit destinados a la parte de Red y Host, para cada clase.
+clase A  | el 1er octecto está comprendido entre 0-127 | 8bit de red y 24 bit de host.
+clase B| entre 128-191| 16 bits de red y 16 de host.
+clase c| entre 192-223| 24 de red y 8 de host.
+3- Mencionar tres tipos de componentes que pueden conectar en una red PAN.
+* bluetooh
+* wifi 
+* nfc 
+4- Responder:
+a. A que red wifi estas conectado: iphone15LH
+b. A que rango de IP pertenece: ip 172.20.10.2 pertenece a la clase B.
+5- Realizar:
+a. Generar un Repositorio en Githup con el nombre “2doParcial”.
+b. Guardar el archivo con el nombre: Parcial Parte1.
+c. Utilizando git bash, Subir el archivo al repositorio. Comentario “Primera Entrega”
+6- Agregar el siguiente contenido al archivo Parcial Parte1.
+7- Mencionar los recursos básicos que debes configurar en la instalación de una máquina virtual.
+*red 
+*ram
+*disco duro 
+8- Mencionar los servicios que podemos utilizar de la Nube: PaaS.
+•	AWS Elastic Beanstalk
+•	Azure App Service
+•	Red Hat OpenShift
+•	CloudFountry
+•	Heroku
+9- Definir: 
+a. Rama: se refiere en donde estoy ubicando o en donde se ubican las carpetas o archivo
+b. Repositorio: es un archivo donde se almacenan los recursos 
+c. Mencionas las tres áreas de trabajo que utiliza el gitbash para trabajar.
+
+
